@@ -219,7 +219,7 @@ git clone https://github.com/BG2JKW/Radar_Api
 # clonar repositório
 git clone https://github.com/BG2JKW/projeto-radar-angular
 
-# entrar na pasta do projeto projeto-radar-angular
+# entrar na pasta do projeto projeto-Radar-angular
 
 # instalar dependências
 ...
