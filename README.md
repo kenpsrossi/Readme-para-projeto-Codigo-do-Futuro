@@ -1,5 +1,5 @@
 
-# :o:Projeto radar :satellite: [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
+# :o:Projeto Radar :satellite: [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>                      
 
@@ -29,7 +29,7 @@
 
 
 
-#  :large_orange_diamond: Sobre o projeto :  :page_with_curl:
+#  :large_orange_diamond: Sobre o Projeto :  :page_with_curl:
 
 
 Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">[*Código do futuro*](https://codigodofuturo.corporate.gama.academy/), uma excelente iniciativa da [**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") em <br>  parceria com à conceituada startup de educação [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy"), com mais de 170 horas de capacitação, somando-se ainda, aulas e mentorias divididas em 11 semanas com módulos ao vivo ministradas pelo exímio professor referência na área [*Danilo Aparecido dos Santos*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/). <br>   Objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular colocando em prática soft skills importantes como: trabalho em equipe; observância de prazos e entrega de demandas; desenvolvimento de raciocínio lógico; interpretação de problemas trazendo soluções; pensamento crítico apresentando soluções diferentes e atitudes positivas diante de desafios.
