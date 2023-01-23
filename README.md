@@ -127,13 +127,16 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 ##  :large_orange_diamond: Layout do código
-
+:pager:***Radar Angular***
 ![cod](./assets/codigo.png)
 
+:pager:***Radar API***
 ![cod_1](./assets/codigo_1.png)
 
+:pager:***Radar API***
 ![cod_2](./assets/codigo_2.png)
 
+:pager:***Radar API***
 ![cod_3](./assets/codigo_3.png)
 
 
