@@ -128,18 +128,26 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 ##  :large_orange_diamond: Layout do código
 
-![Web 1](https://github.png)
+![cod](./assets/codigo.png)
 
-![Web 2](https://github.png)
+![cod_1](./assets/codigo_1.png)
+
+![cod_2](./assets/codigo_2.png)
+
+![cod_3](./assets/codigo_3.png)
 
 
 
 
 ##  :large_orange_diamond: Layout do site
 
-![Web 1](https://github.png)
+![Web 1](https://.png)
 
-![Web 2](https://github.png)
+![Web 2](https://.png)
+
+![Web 2](https://.png)
+
+![Web 2](https://.png)
 
 
 
