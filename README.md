@@ -24,9 +24,12 @@
 
 
 
- <img align="right" width="130" height="30" src="https://tse3.mm.bing.net/th?id=OIP.0Xjn-Gf3CfA7OUnKkpKnjAHaCl&pid=Api&P=0"/>
+ <img align="right" width="130" height="30" src="./assets/gama_f_f.png"/>
+<img align="right" width="130" height="30" src="./assets/gama_1"/>
+    <img align="right" width="130" height="30" src="./assets/febrafar.png"/>                                                         
+<img align="right" width="130" height="30" src="./assets/febrafar_1.png"/>
+<img align="right" width="130" height="30" src="./assets/farmarcas_1"/>
 
-                                                             
 
 
 #  :large_orange_diamond: Sobre o Projeto :  :page_with_curl:       
