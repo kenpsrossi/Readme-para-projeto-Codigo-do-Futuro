@@ -119,7 +119,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 ##  :large_orange_diamond: Layout do trello
 
 
-<img align="center" alt="Js" height="400" width="500" src="./assets/trello0.png"> <img align="center" alt="Js" height="400" width="500" src="./assets/trello_1.png">
+<img align="center" alt="Js" height="400em" width="500em" src="./assets/trello0.png"> <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello_1.png">
 
 ![trello_2](./assets/trello_2.png)
 
