@@ -29,7 +29,7 @@
 
 
 
-#  :large_orange_diamond: Sobre o projeto :  :bookmark_tabs:
+#  :large_orange_diamond: Sobre o projeto :  :page_with_curl:
 
 
 Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">[*Código do futuro*](https://codigodofuturo.corporate.gama.academy/), uma excelente iniciativa da [**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") em <br>  parceria com à conceituada startup de educação [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy"), com mais de 170 horas de capacitação, somando-se ainda, aulas e mentorias divididas em 11 semanas com módulos ao vivo ministradas pelo exímio professor referência na área [*Danilo Aparecido dos Santos*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/). <br>   Objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular colocando em prática soft skills importantes como: trabalho em equipe; observância de prazos e entrega de demandas; desenvolvimento de raciocínio lógico; interpretação de problemas trazendo soluções; pensamento crítico apresentando soluções diferentes e atitudes positivas diante de desafios.
@@ -70,7 +70,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
- <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"    target="_blank"></a>
 
 
 
@@ -82,7 +82,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Organização do Projeto :  :clipboard:
+#  :large_orange_diamond: Organização do Projeto :  :clipboard:
 - Elaboramos o kanban utilizando o Trello ;
 - Criamos prototipação ;
 - Criamos o backlog ;
@@ -101,7 +101,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Modelo conceitual :scroll:
+#  :large_orange_diamond: Modelo conceitual : :pencil:
 :part_alternation_mark:**Modelo conceitual do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
 
@@ -116,7 +116,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Layout do trello
+#  :large_orange_diamond: Layout do trello : :bookmark_tabs:
 
 
 <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello0.png"> <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello_1.png">
@@ -126,7 +126,11 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Layout do código
+#  :large_orange_diamond: Layout do código : <img align="center" alt="código" height="30" width="70" src="./assets/codigo_2.png">
+
+
+
+
 :notebook_with_decorative_cover:***Radar Angular***
 ![cod](./assets/codigo.png)
 
@@ -142,7 +146,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Layout do site
+#  :large_orange_diamond: Layout do site : :pager:
 
 ![Web 1](https://.png)
 
@@ -158,7 +162,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-##  :large_orange_diamond: Tecnologias utilizadas :
+#  :large_orange_diamond: Tecnologias utilizadas : :calling:
 
 
 - **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -194,7 +198,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-## :large_orange_diamond: Como executar o projeto :
+# :large_orange_diamond: Como executar o projeto :
 
 ##  :bulb: Back end :
 - Pré-requisitos : 
