@@ -20,6 +20,17 @@
 
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
 #  :large_orange_diamond: Sobre o projeto :  :bookmark_tabs:
 
 
@@ -67,6 +78,14 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
+
+
+
+
+
+
+
+
 ##  :large_orange_diamond: Organização do Projeto :  :clipboard:
 - Elaboramos o kanban utilizando o Trello ;
 - Criamos prototipação ;
@@ -77,6 +96,17 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 - Definimos cada responsável pelo card ou checklist de completude ;
 - Priorizamos os cards através de etiquetas coloridas que definiam níveis de dificuldade e níveis de prioridade .
 
+
+
+
+
+
+
+
+
+
+
+
 ##  :large_orange_diamond: Modelo conceitual :scroll:
 :part_alternation_mark:**Modelo conceitual do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
@@ -84,11 +114,24 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 :part_alternation_mark:**Modelo lógico do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066902003202130100/image.png?width=1228&height=663)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##  :large_orange_diamond: Layout do trello
 
-![trello](./assets/trello.png)
 
-![trello_1](./assets/trello_1.png)
+<img align="center" alt="Js" height="300" width="500" src="./assets/trello.png"> <img align="center" alt="Js" height="300" width="500" src="./assets/trello_1.png">
 
 ![trello_2](./assets/trello_2.png)
 
