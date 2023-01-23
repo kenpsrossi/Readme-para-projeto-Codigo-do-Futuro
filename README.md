@@ -23,10 +23,11 @@
 <br>
 
 
+<img align="right" width="540" height="50" src="./assets/far.jpeg"/>
+<img align="right" width="540" height="50" src="./assets/febra.jpeg"/>
+<img align="right" width="540" height="50" src="./assets/gama.jpeg"/>
 
 
-
- <img align="right" width="540" height="50" src="./assets/logo_g_f_f.png"/>
  <br>
 
 
