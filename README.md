@@ -86,9 +86,11 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 ##  :large_orange_diamond: Layout do trello
 
-![Web 1](https://github.png)
+![trello](./assets/trello.png)
 
-![Web 2](https://github.png)
+![trello_1](./assets/trello_1.png)
+
+![trello_2](./assets/trello_2.png)
 
 ##  :large_orange_diamond: Layout do código
 
