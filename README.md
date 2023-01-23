@@ -101,7 +101,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-#  :large_orange_diamond: Modelo conceitual : :pencil:
+#  :large_orange_diamond: Modelo Conceitual : :pencil:
 :part_alternation_mark:**Modelo conceitual do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
 
@@ -116,7 +116,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-#  :large_orange_diamond: Layout do trello : :bookmark_tabs:
+#  :large_orange_diamond: Layout do Trello : :bookmark_tabs:
 
 
 <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello0.png"> <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello_1.png">
@@ -126,7 +126,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-#  :large_orange_diamond: Layout do código : <img align="center" alt="código" height="30" width="70" src="./assets/codigo_2.png">
+#  :large_orange_diamond: Layout do Código : <img align="center" alt="código" height="30" width="70" src="./assets/codigo_2.png">
 
 
 
@@ -146,7 +146,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-#  :large_orange_diamond: Layout do site : :pager:
+#  :large_orange_diamond: Layout do Site : :pager:
 
 :computer: ***Site página 1...***
 
@@ -170,7 +170,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-#  :large_orange_diamond: Tecnologias utilizadas : :calling:
+##  :large_orange_diamond: Tecnologias utilizadas : :calling:
 
 
 - **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -206,7 +206,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-# :large_orange_diamond: Como executar o projeto : :bulb:
+# :large_orange_diamond: Como executar o Projeto : :bulb:
 
 ##  :flashlight: Back end :
 - Pré-requisitos : 
