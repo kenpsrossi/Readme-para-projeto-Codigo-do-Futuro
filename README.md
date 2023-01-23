@@ -29,11 +29,7 @@
 
 
 
-
-
 #  :large_orange_diamond: Sobre o projeto :  :bookmark_tabs:
-
-
 
 
 Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">[*Código do futuro*](https://codigodofuturo.corporate.gama.academy/), uma excelente iniciativa da [**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") em <br>  parceria com à conceituada startup de educação [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy"), com mais de 170 horas de capacitação, somando-se ainda, aulas e mentorias divididas em 11 semanas com módulos ao vivo ministradas pelo exímio professor referência na área [*Danilo Aparecido dos Santos*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/). <br>   Objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular colocando em prática soft skills importantes como: trabalho em equipe; observância de prazos e entrega de demandas; desenvolvimento de raciocínio lógico; interpretação de problemas trazendo soluções; pensamento crítico apresentando soluções diferentes e atitudes positivas diante de desafios.
@@ -105,8 +101,6 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-
-
 ##  :large_orange_diamond: Modelo conceitual :scroll:
 :part_alternation_mark:**Modelo conceitual do banco**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
@@ -122,18 +116,15 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-
-
-
-
-
-
 ##  :large_orange_diamond: Layout do trello
 
 
-<img align="center" alt="Js" height="300" width="500" src="./assets/trello .png"> <img align="center" alt="Js" height="300" width="500" src="./assets/trello_1.png">
+<img align="center" alt="Js" height="300" width="500" src="./assets/trello.png"> <img align="center" alt="Js" height="300" width="500" src="./assets/trello_1.png">
 
 ![trello_2](./assets/trello_2.png)
+
+
+
 
 ##  :large_orange_diamond: Layout do código
 
@@ -141,17 +132,16 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 ![Web 2](https://github.png)
 
+
+
+
 ##  :large_orange_diamond: Layout do site
 
 ![Web 1](https://github.png)
 
 ![Web 2](https://github.png)
 
-##  :large_orange_diamond: Layout da API
 
-![Web 1](https://github.png)
-
-![Web 2](https://github.png)
 
 
 
@@ -188,6 +178,9 @@ sobre as informações do sistema radar, que tem como funcionalidades:
          
 - **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://i.ytimg.com/vi/cdxRMjYDrmg/maxresdefault.jpg">   
         
+
+
+
 
 
 ## :large_orange_diamond: Como executar o projeto :
