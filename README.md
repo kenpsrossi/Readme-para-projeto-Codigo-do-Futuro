@@ -97,13 +97,9 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 #  :large_orange_diamond: Layout do Trello : :bookmark_tabs:
 
 
-<img align="center" alt="Js" height="400em" width="500em" src="./assets/trello0.png"> <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello_1.png">
-
 ![trello_2](./assets/trello.png)
 
 ![trello_2](./assets/trello_2.png)
-
-
 
 
 #  :large_orange_diamond: Modelo Conceitual/Prototipação: :pencil:
@@ -113,8 +109,11 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 :part_alternation_mark:**Modelo lógico do banco de dados**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066902003202130100/image.png?width=1228&height=663)
 
-<img align="center" alt="Js" height="400em" width="500em" src="./assets/prototipacao_1"> <img align="center" alt="Js" height="400em" width="500em" src="./assets/prototipacao_2">
-<img align="center" alt="Js" height="400em" width="500em" src="./assets/prototipacao_3">
+:part_alternation_mark:**Prototipação**
+<img align="center" alt="Js" height="100%" width="100%" src="./assets/prototipacao_1.png"/>
+
+:part_alternation_mark:**Prototipação**
+<img align="center" alt="Js" height="100%" width="100%" src="./assets/prototipacao_2.png"/>
 
 
 #  :large_orange_diamond: Layout do Código : <img align="center" alt="código" height="30" width="70" src="./assets/codigo_2.png">
