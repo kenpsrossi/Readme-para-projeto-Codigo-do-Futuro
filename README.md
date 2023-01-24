@@ -37,13 +37,6 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 | :small_orange_diamond: Página cadastro de lojas ; :white_check_mark:   |   :small_orange_diamond: Autenticação JWT na API ; :white_check_mark:  
 | :small_orange_diamond: Utilização da API de consulta de CEP br para códigos de endereçamento ; :white_check_mark:   |   :small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa . :white_check_mark: 
 
-:small_orange_diamond: !!!Página para organização dos produtos das lojas ; :white_check_mark:
-
-:small_orange_diamond: !!!Disponibilidade de posicionamento dos produtos em prateleiras objetivando propiciar criação de campanhas . :white_check_mark:
-
-:small_orange_diamond: !!!Testes de unidade e funcionalidades ; :white_check_mark:
-
-
 
 
 
