@@ -24,11 +24,8 @@
 
 
 
- <img align="right" width="130" height="30" src="./assets/gama_f_f.png"/>
-<img align="right" width="130" height="30" src="./assets/gama_1"/>
-    <img align="right" width="130" height="30" src="./assets/febrafar.png"/>                                                         
-<img align="right" width="130" height="30" src="./assets/febrafar_1.png"/>
-<img align="right" width="130" height="30" src="./assets/farmarcas_1"/>
+ <img align="right" width="530" height="80" src="./assets/gama_f_f.png"/>
+ <br>
 
 
 
