@@ -3,7 +3,7 @@
 |[**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") | [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") | [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy") |  [*Professor Danilo*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/)| [**Código do Futuro**](https://codigodofuturo.corporate.gama.academy/)
 
  * * *
-# :accept: Projeto Radar :satellite: :cyclone: [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
+# :accept: Projeto Radar :satellite: :cyclone: <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>                      
 
@@ -138,19 +138,25 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 ![Web 4](https://tse1.mm.bing.net/th?id=OIP.PYuCPYKpUkLQ-2_33i2DwQHaFj&pid=Api&P=0)
 
-
+| Item | Preço
+|--------------|:-----:
+| itm 2| preco2
+|    3 |    3  
+|    4   |   4  
+|    5   |    5 
 
 *****
 ##  :large_orange_diamond: Tecnologias utilizadas : :calling:
 
 
-- **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | - **CSS**  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | - **TypeScript**    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> | - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | - **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png"> | - **.Net** <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> | - **C#**   <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | - **AspNet core**  <img align="center" alt="Js" height="30" width="40" src="https://ih0.redbubble.net/image.366684650.5673/flat,800x800,075,f.u1.jpg"> | - **Banco de dados MySQL** <img align="center" alt="Js" height="30" width="40" src="https://tse3.mm.bing.net/th?id=OIP.GtaXYJLvM40xzYdLPeKWTwHaEM&pid=Api&P=0"> | - **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://i.ytimg.com/vi/cdxRMjYDrmg/maxresdefault.jpg">:--------- | :------: |
 
-
-
- - **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | - **CSS**  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |  - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-:--------- | :------: 
-   - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |  - **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">  
+| :small_blue_diamond: **HTML** <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  |  :small_blue_diamond: **CSS** <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+|:--------------|:-----
+|  :small_blue_diamond: **TypeScript** <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> |  :small_blue_diamond: **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+|   :small_blue_diamond: **Angular** <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png"> |     :small_blue_diamond: **.Net** <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">  
+|    :small_blue_diamond: **C#** <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">    |   :small_blue_diamond: **AspNet core** <img align="center" alt="Js" height="30" width="40" src="https://ih0.redbubble.net/image.366684650.5673/flat,800x800,075,f.u1.jpg">  
+|    :small_blue_diamond: **Banco de dados MySQL** <img align="center" alt="Js" height="30" width="40" src="https://tse3.mm.bing.net/th?id=OIP.GtaXYJLvM40xzYdLPeKWTwHaEM&pid=Api&P=0">   |     :small_blue_diamond: **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://i.ytimg.com/vi/cdxRMjYDrmg/maxresdefault.jpg">  
+ 
 
 
 *****
