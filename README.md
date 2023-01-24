@@ -27,7 +27,7 @@
 Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">[*Código do Futuro*](https://codigodofuturo.corporate.gama.academy/), uma excelente iniciativa da [**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") em <br>  parceria com à conceituada startup de educação [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy"), foram mais de 170 horas de capacitação, somando-se ainda, aulas e mentorias divididas em 11 semanas com módulos ao vivo ministradas pelo exímio professor referência na área [*Danilo Aparecido dos Santos*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/). <br>   Objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular, colocando em prática soft skills importantes como: trabalho em equipe; observância de prazos e entrega de demandas; desenvolvimento de raciocínio lógico; interpretação de problemas trazendo soluções; pensamento crítico apresentando resoluções inovadoras e atitudes positivas diante dos desafios.
 
 O projeto **Radar** consiste na junção do projeto front-end já desenvolvido no primeiro desafio com o projeto back-end AspNet core API C#, permitindo desse modo o controle interno
-sobre as informações do sistema radar, que tem como funcionalidades:
+sobre as informações do sistema radar. <br> O objetivo é melhorar a experiência dos associados, viabilizando o cadastro de produtos, clientes e lojas. Da mesma maneira oportuniza o gerenciamento dos pedidos, fluxo de caixa, controle do estoque de produtos e a visualização dos pontos de localização das lojas no mapa, dispõe das seguintes funcionalidades:
 
 
 | :small_orange_diamond: Pagina login ;  :white_check_mark:  | :small_orange_diamond: Página home ;  :white_check_mark:
@@ -37,33 +37,13 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 | :small_orange_diamond: Página cadastro de lojas ; :white_check_mark:   |   :small_orange_diamond: Autenticação JWT na API ; :white_check_mark:  
 | :small_orange_diamond: Utilização da API de consulta de CEP br para códigos de endereçamento ; :white_check_mark:   |   :small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa . :white_check_mark: 
 
-:small_orange_diamond: Pagina login ;  :white_check_mark:                                                
-
-:small_orange_diamond: Página home ;  :white_check_mark:
-
-:small_orange_diamond: Página cadastro de produtos ; :white_check_mark:
-
-:small_orange_diamond: Página cadastro de clientes ; :white_check_mark:
-
-:small_orange_diamond: Página cadastro de pedidos dos clientes ; :white_check_mark:
-
-:small_orange_diamond: Página de fluxo de caixa ; :white_check_mark:
-
-:small_orange_diamond: Página cadastro de lojas ; :white_check_mark:
-
 :small_orange_diamond: !!!Página para organização dos produtos das lojas ; :white_check_mark:
 
 :small_orange_diamond: !!!Disponibilidade de posicionamento dos produtos em prateleiras objetivando propiciar criação de campanhas . :white_check_mark:
 
-- Compreende ainda funcionalidades extras como :
-
-:small_orange_diamond: Autenticação JWT na API ; :white_check_mark:
-
 :small_orange_diamond: !!!Testes de unidade e funcionalidades ; :white_check_mark:
 
-:small_orange_diamond: Utilização da API de consulta de CEP br para códigos de endereçamento ; :white_check_mark:
 
-:small_orange_diamond: Utilização da API do google maps para mostrar os pontos da loja no mapa . :white_check_mark:
 
 
 
