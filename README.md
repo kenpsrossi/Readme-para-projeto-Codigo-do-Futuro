@@ -130,7 +130,7 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 *****
 # :large_orange_diamond: Como executar o Projeto : :bulb:
 
-##  :flashlight: Back end :
+##  :flashlight: Back end : :octocat: https://github.com/BG2JKW/Radar_Api
 - Pré-requisitos : 
 
 ```bash
@@ -143,10 +143,10 @@ git clone https://github.com/BG2JKW/Radar_Api
 ...
 
 # executar o projeto
-  Comando para rodar a api dotnet watch run Radar_Api.csproj
+  
 ```
 
-##  :flashlight: Front end web :
+##  :flashlight: Front end web : :octocat: https://github.com/BG2JKW/projeto-radar-angular
 - Pré-requisitos : 
 
 ```bash
