@@ -1,4 +1,4 @@
- 
+
  
  
 # :o:Projeto Radar :satellite: [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
@@ -15,25 +15,25 @@
 
 
 
-|![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4)| [![CDF](https://imgur.com/LSORhfc.png)](https://codigodofuturo.corporate.gama.academy/) 
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|*Beatriz Miotto*|*Jaziel Matos*|*Gustavo Lima*|*Kenps Rossi*|*Wallace Cocuzza*|[**Código do futuro**](https://codigodofuturo.corporate.gama.academy/)|
-|[![BIA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-miotto-8025b7200/)|[![JAZIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaziel-matos-7b7256212/) |[![GUS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salgado-lima/) |[![KENPS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenps-adv-dev/) |[![WCOCUZ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcocuzza/)|[**Radar**](https://github.com/BG2JKW)
+|![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4)|  
+|:--:|:--:|:--:|:--:|:--:|
+|*Beatriz Miotto*|*Jaziel Matos*|*Gustavo Lima*|*Kenps Rossi*|*Wallace Cocuzza*|
+|[![BIA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-miotto-8025b7200/)|[![JAZIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaziel-matos-7b7256212/) |[![GUS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salgado-lima/) |[![KENPS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenps-adv-dev/) |[![WCOCUZ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcocuzza/)
+
+
+
+
+
+
+#  :large_orange_diamond: Sobre o Projeto :  :page_with_curl:
+
+
+
+| <img align="auto" width="180" height="180" src="https://scontent.fcgh16-1.fna.fbcdn.net/v/t1.6435-9/118983610_2661453750850640_2643832708400381203_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_r9exkaUJG8AX84IZIr&_nc_ht=scontent.fcgh16-1.fna&oh=00_AfDDjfLKQ-z5yJPPfCW_K15oo5Ae-J_bNNgewjMZtj4WKA&oe=63F6C368"/> | <img align="auto" width="180" height="180" src="https://scontent.fcgh16-1.fna.fbcdn.net/v/t39.30808-6/251893323_630697808296004_852662159623347658_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Smmx3wakeFsAX-6_Das&_nc_ht=scontent.fcgh16-1.fna&oh=00_AfCwo1LaPHKvqvYNiN3MNF6T0pZixjIGOjcq2UPEkdurFA&oe=63D3DE7B"/> | <img align="auto" width="180" height="180" src="https://yt3.ggpht.com/a/AATXAJzdgWd4s_PqI-6syrkYjR4_Ev-mcEsFIKZrHw=s900-c-k-c0xffffffff-no-rj-mo"/> |<img align="" width="180" height="180" src="https://media.licdn.com/dms/image/sync/C4D27AQELQGm3axZC8A/articleshare-shrink_800/0/1673442682862?e=1675130400&v=beta&t=_qNTjkSyrrNqjVPISaDuUbuDdU1KKEDhXsawo7A8G5k"/> | <img align="auto" width="155" height="150" src="https://imgur.com/LSORhfc.png"/> 
+|--- |--- |--- |--- |--- |
+|[**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") | [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") | [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy") |  [*Professor Danilo*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/)| [**Código do futuro**](https://codigodofuturo.corporate.gama.academy/)
 
 <br>
-
-
-<img align="right" width="540" height="50" src="./assets/far.jpeg"/>
-<img align="right" width="540" height="50" src="./assets/febra.jpeg"/>
-<img align="right" width="540" height="50" src="./assets/gama.jpeg"/>
-
-
- <br>
-
-
-
-#  :large_orange_diamond: Sobre o Projeto :  :page_with_curl:       
-
 
 Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">[*Código do Futuro*](https://codigodofuturo.corporate.gama.academy/), uma excelente iniciativa da [**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") em <br>  parceria com à conceituada startup de educação [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy"), foram mais de 170 horas de capacitação, somando-se ainda, aulas e mentorias divididas em 11 semanas com módulos ao vivo ministradas pelo exímio professor referência na área [*Danilo Aparecido dos Santos*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/). <br>   Objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular, colocando em prática soft skills importantes como: trabalho em equipe; observância de prazos e entrega de demandas; desenvolvimento de raciocínio lógico; interpretação de problemas trazendo soluções; pensamento crítico apresentando resoluções inovadoras e atitudes positivas diante dos desafios.
 
@@ -82,9 +82,6 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-
-
-
 #  :large_orange_diamond: Organização do Projeto :  :clipboard:
 - Elaboramos o kanban utilizando o Trello ;
 - Criamos prototipação ;
@@ -100,6 +97,12 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
+#  :large_orange_diamond: Layout do Trello : :bookmark_tabs:
+
+
+<img align="center" alt="Js" height="400em" width="500em" src="./assets/trello0.png"> <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello_1.png">
+
+![trello_2](./assets/trello_2.png)
 
 
 
@@ -110,21 +113,6 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 :part_alternation_mark:**Modelo lógico do banco de dados**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066902003202130100/image.png?width=1228&height=663)
-
-
-
-
-
-
-
-
-
-#  :large_orange_diamond: Layout do Trello : :bookmark_tabs:
-
-
-<img align="center" alt="Js" height="400em" width="500em" src="./assets/trello0.png"> <img align="center" alt="Js" height="400em" width="500em" src="./assets/trello_1.png">
-
-![trello_2](./assets/trello_2.png)
 
 
 
