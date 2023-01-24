@@ -13,10 +13,10 @@
 
 
 
-|![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4) |![Gabriel Belo](https://avatars.githubusercontent.com/u/63070861?v=4)| [![CDF](https://imgur.com/LSORhfc.png)](https://codigodofuturo.corporate.gama.academy/) 
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|*Beatriz Miotto*|*Jaziel Matos*|*Gustavo Lima*|*Kenps Rossi*|*Wallace Cocuzza*|*Gabriel Belo*|[**Código do futuro**](https://codigodofuturo.corporate.gama.academy/)|
-|[![BIA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-miotto-8025b7200/)|[![JAZIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaziel-matos-7b7256212/) |[![GUS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salgado-lima/) |[![KENPS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenps-adv-dev/) |[![WCOCUZ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcocuzza/) |[![GABRIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-b-218975121/)|[**Radar**](https://github.com/BG2JKW)
+|![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4)| [![CDF](https://imgur.com/LSORhfc.png)](https://codigodofuturo.corporate.gama.academy/) 
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|*Beatriz Miotto*|*Jaziel Matos*|*Gustavo Lima*|*Kenps Rossi*|*Wallace Cocuzza*|[**Código do futuro**](https://codigodofuturo.corporate.gama.academy/)|
+|[![BIA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-miotto-8025b7200/)|[![JAZIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaziel-matos-7b7256212/) |[![GUS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salgado-lima/) |[![KENPS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenps-adv-dev/) |[![WCOCUZ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcocuzza/)|[**Radar**](https://github.com/BG2JKW)
 
 <br>
 
@@ -24,12 +24,12 @@
 
 
 
+ <img align="right" width="130" height="30" src="https://tse3.mm.bing.net/th?id=OIP.0Xjn-Gf3CfA7OUnKkpKnjAHaCl&pid=Api&P=0"/>
+
+                                                             
 
 
-
-
-
-#  :large_orange_diamond: Sobre o Projeto :  :page_with_curl:
+#  :large_orange_diamond: Sobre o Projeto :  :page_with_curl:       
 
 
 Radar é uma projeto do programa de treinamento do <img align="center" alt="Js" height="25" width="25" src="https://imgur.com/LSORhfc.png">[*Código do Futuro*](https://codigodofuturo.corporate.gama.academy/), uma excelente iniciativa da [**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") e da [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") em <br>  parceria com à conceituada startup de educação [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy"), foram mais de 170 horas de capacitação, somando-se ainda, aulas e mentorias divididas em 11 semanas com módulos ao vivo ministradas pelo exímio professor referência na área [*Danilo Aparecido dos Santos*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/). <br>   Objetivando preparar desenvolvedores FullStack Jr nas linguagens .Net e Angular, colocando em prática soft skills importantes como: trabalho em equipe; observância de prazos e entrega de demandas; desenvolvimento de raciocínio lógico; interpretação de problemas trazendo soluções; pensamento crítico apresentando resoluções inovadoras e atitudes positivas diante dos desafios.
@@ -102,10 +102,10 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 #  :large_orange_diamond: Modelo Conceitual : :pencil:
-:part_alternation_mark:**Modelo conceitual do banco**
+:part_alternation_mark:**Modelo conceitual do banco de dados**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
 
-:part_alternation_mark:**Modelo lógico do banco**
+:part_alternation_mark:**Modelo lógico do banco de dados**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066902003202130100/image.png?width=1228&height=663)
 
 
