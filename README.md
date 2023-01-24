@@ -24,7 +24,7 @@
 
 
 
- <img align="right" width="530" height="80" src="./assets/logo_g_f_f.png"/>
+ <img align="right" width="540" height="50" src="./assets/logo_g_f_f.png"/>
  <br>
 
 
