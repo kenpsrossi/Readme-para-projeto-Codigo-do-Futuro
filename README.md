@@ -2,10 +2,7 @@
 |--- |--- |--- |--- |--- |
 |[**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") | [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") | [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy") |  [*Professor Danilo*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/)| [**Código do Futuro**](https://codigodofuturo.corporate.gama.academy/)
 
-
-
- 
- 
+ * * *
 # :accept: Projeto Radar :satellite: :cyclone: [![NPM](https://img.shields.io/npm/l/react)](https://github.LICENSE) <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>                      
@@ -23,10 +20,6 @@
 |:--:|:--:|:--:|:--:|:--:|
 |*Beatriz Miotto*|*Jaziel Matos*|*Gustavo Lima*|*Kenps Rossi*|*Wallace Cocuzza*|
 |[![BIA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-miotto-8025b7200/)|[![JAZIEL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaziel-matos-7b7256212/) |[![GUS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-salgado-lima/) |[![KENPS](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenps-adv-dev/) |[![WCOCUZ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcocuzza/)
-
-
-
-
 
 
 #  :large_orange_diamond: Sobre o Projeto :  :page_with_curl:
@@ -73,11 +66,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-
-
-
-
-
+*****
 #  :large_orange_diamond: Organização do Projeto :  :clipboard:
 - Elaboramos o kanban utilizando o Trello ;
 - Criamos prototipação ;
@@ -89,10 +78,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 - Priorizamos os cards através de etiquetas coloridas que definiam níveis de dificuldade e níveis de prioridade .
 
 
-
-
-
-
+*****
 #  :large_orange_diamond: Layout do Trello : :bookmark_tabs:
 
 
@@ -100,7 +86,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 ![trello_2](./assets/trello_2.png)
 
-
+*****
 #  :large_orange_diamond: Modelo Conceitual/Prototipação: :pencil:
 :part_alternation_mark:**Modelo conceitual do banco de dados**
 ![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
@@ -115,9 +101,8 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 <img align="center" alt="Js" height="100%" width="100%" src="./assets/prototipacao_2.png"/>
 
 
+*****
 #  :large_orange_diamond: Layout do Código : <img align="center" alt="código" height="30" width="70" src="./assets/codigo_2.png">
-
-
 
 
 :notebook_with_decorative_cover:***Radar Angular***
@@ -134,7 +119,7 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-
+*****
 #  :large_orange_diamond: Layout do Site : :pager:
 
 :computer: ***Site página 1...***
@@ -155,46 +140,20 @@ sobre as informações do sistema radar, que tem como funcionalidades:
 
 
 
-
-
-
-
+*****
 ##  :large_orange_diamond: Tecnologias utilizadas : :calling:
 
 
-- **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-
-- **CSS**  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
-- **TypeScript**    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-- **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-
-- **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
-
-
-- **.Net** <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-
-
-- **C#**   <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-
-
-- **AspNet core**  <img align="center" alt="Js" height="30" width="40" src="https://ih0.redbubble.net/image.366684650.5673/flat,800x800,075,f.u1.jpg">
-
-
-- **Banco de dados MySQL** <img align="center" alt="Js" height="30" width="40" src="https://tse3.mm.bing.net/th?id=OIP.GtaXYJLvM40xzYdLPeKWTwHaEM&pid=Api&P=0">
-
-         
-- **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://i.ytimg.com/vi/cdxRMjYDrmg/maxresdefault.jpg">   
-        
+- **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | - **CSS**  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | - **TypeScript**    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> | - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | - **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png"> | - **.Net** <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> | - **C#**   <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | - **AspNet core**  <img align="center" alt="Js" height="30" width="40" src="https://ih0.redbubble.net/image.366684650.5673/flat,800x800,075,f.u1.jpg"> | - **Banco de dados MySQL** <img align="center" alt="Js" height="30" width="40" src="https://tse3.mm.bing.net/th?id=OIP.GtaXYJLvM40xzYdLPeKWTwHaEM&pid=Api&P=0"> | - **Testes com UnitTest** <img align="center" alt="Js" height="30" width="40" src="https://i.ytimg.com/vi/cdxRMjYDrmg/maxresdefault.jpg">:--------- | :------: |
 
 
 
+ - **HTML**   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | - **CSS**  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |  - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+:--------- | :------: 
+   - **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |  - **Angular**  <img align="center" alt="Js" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">  
 
 
+*****
 # :large_orange_diamond: Como executar o Projeto : :bulb:
 
 ##  :flashlight: Back end :
