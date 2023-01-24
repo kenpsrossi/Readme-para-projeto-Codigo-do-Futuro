@@ -1,7 +1,3 @@
-<img align="center" width="540" height="60" src="./assets/logo_g_f_f.png"/>
-
-
-
  
  
  
