@@ -150,7 +150,7 @@ git clone https://github.com/BG2JKW/Radar_Api
 ...
 
 # executar o projeto
-...
+Comando para rodar a api dotnet watch run Radar_Api.csproj
 ```
 
 ##  :flashlight: Front end web :
