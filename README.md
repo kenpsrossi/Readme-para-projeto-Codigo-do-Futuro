@@ -7,7 +7,7 @@
 
 
  * * *
-# :accept: Projeto Radar <img align="auto" width="220" height="8" src="https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif"> <img align="right" width="380em" height="280em" src="https://media.discordapp.net/attachments/1062788412219854858/1067896723776733253/3.gif"/>
+# :accept: Projeto Radar <img align="auto" width="260" height="8" src="https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif"> <img align="right" width="380em" height="280em" src="https://media.discordapp.net/attachments/1062788412219854858/1067896723776733253/3.gif"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>                      
 
@@ -17,7 +17,7 @@
 <br>
 
 
-#  :large_orange_diamond: Desenvolvedores : <img align="auto" width="150" height="26" src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif">
+#  :large_orange_diamond: Desenvolvedores : <img align="auto" width="180" height="26" src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif">
 
 
 |![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4)|  
