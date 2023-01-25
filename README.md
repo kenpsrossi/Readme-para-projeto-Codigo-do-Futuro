@@ -3,7 +3,7 @@
 |[**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") | [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") | [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy") |  [*Professor Danilo*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/)| [**Código do Futuro**](https://codigodofuturo.corporate.gama.academy/)
 
 
-<h5><i>Agradecimentos à</i> <b>Farmarcas</b>, Febrafar<i> e a </i> GamaAcademy <i/>por essa excepcional iniciativa do</i> <"Código do Futuro"> <i>esse projeto proporcionou uma sublime oportunidade de adquirir conhecimento e capacitação para o mercado de tecnologia, gratidão especial ao professor</i> Danilo Aparecido <i>por guiar com maestria nosso aprendizado.</i></h5>
+<h5><i>Agradecimentos à</i> <b>Farmarcas</b>, Febrafar<i> e a </i> GamaAcademy <i/>por essa excepcional iniciativa do</i> <"Código do Futuro"> <i>esse projeto proporcionou uma sublime oportunidade de adquirir conhecimento e capacitação para o mercado de tecnologia, gratidão especial ao Professor</i> Danilo Aparecido <i>por guiar com maestria nosso aprendizado.</i></h5>
 
 
  * * *
