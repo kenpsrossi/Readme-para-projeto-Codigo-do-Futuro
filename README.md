@@ -65,17 +65,7 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 
 *****
 #  :large_orange_diamond: Modelo Conceitual/Prototipação: :pencil:
-:part_alternation_mark:**Modelo conceitual do banco de dados**
-![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066901976677359646/image.png?width=1294&height=662)
-
-:part_alternation_mark:**Modelo lógico do banco de dados**
-![Modelo Conceitual](https://media.discordapp.net/attachments/1066900906722996304/1066902003202130100/image.png?width=1228&height=663)
-
-:part_alternation_mark:**Prototipação**
-<img align="center" alt="Js" height="100%" width="100%" src="./assets/prototipacao_1.png"/>
-
-:part_alternation_mark:**Prototipação**
-<img align="center" alt="Js" height="100%" width="100%" src="./assets/prototipacao_2.png"/>
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/102131657/214474574-809b5c3d-06f4-4cc5-9eeb-e01e07aff644.gif)
 
 
 *****
