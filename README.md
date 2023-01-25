@@ -2,7 +2,7 @@
 |--- |--- |--- |--- |--- |
 |[**Farmarcas**](https://www.farmarcas.com.br/ "Site da Da Farmarcas") | [**Febrafar**](https://www.febrafar.com.br/ "Site da Da Febrafar") | [**Gama Academy**](https://www.gama.academy/ "Site da Da Gama Academy") |  [*Professor Danilo*](https://www.linkedin.com/in/danilo-aparecido-dos-santos-03101034/)| [**Código do Futuro**](https://codigodofuturo.corporate.gama.academy/)
 
-##### *Agradecimentos à `Farmarcas`, `Febrafar` e a `GamaAcademy` por essa excepcional iniciativa do <"Código do Futuro"> esse projeto proporcionou uma sublime oportunidade de adquirir conhecimento e capacitação para o mercado de tecnologia, gratidão especial ao professor `Danilo Aparecido` por guiar com maestria nosso aprendizado.*
+##### *Agradecimentos à Farmarcas, Febrafar e a GamaAcademy por essa excepcional iniciativa do <"Código do Futuro"> esse projeto proporcionou uma sublime oportunidade de adquirir conhecimento e capacitação para o mercado de tecnologia, gratidão especial ao professor Danilo Aparecido por guiar com maestria nosso aprendizado.*
  * * *
 # :accept: Projeto Radar :satellite: :cyclone: <img align="right" width="320em" height="280em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
@@ -67,7 +67,7 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 
 
 #  :large_orange_diamond: Modelo Conceitual/Prototipação: :pencil:
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/102131657/214474574-809b5c3d-06f4-4cc5-9eeb-e01e07aff644.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/102131657/214477954-6496b6f1-5476-4a06-b188-069558fdc20e.gif)
 
 
 *****
