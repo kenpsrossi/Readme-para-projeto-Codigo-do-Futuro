@@ -17,7 +17,7 @@
 <br>
 
 
-#  :large_orange_diamond: Desenvolvedores : <img align="auto" width="150" height="26" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+#  :large_orange_diamond: Desenvolvedores : <img align="auto" width="150" height="26" src="https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif">
 
 
 |![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4)|  
