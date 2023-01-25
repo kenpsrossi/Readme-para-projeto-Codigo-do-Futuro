@@ -7,7 +7,7 @@
 
 
  * * *
-# :accept: Projeto Radar <img align="auto" width="320" height="7" src="https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif"> <img align="right" width="330em" height="300em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
+# :accept: Projeto Radar <img align="auto" width="220" height="9" src="https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif"> <img align="right" width="330em" height="300em" src="https://avatars.githubusercontent.com/u/122499470?s=200&v=4"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, somos o grupo BG2JKW</h1>
 <p align="left"> </p>                      
 
