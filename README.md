@@ -74,22 +74,10 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 
 
 *****
-#  :large_orange_diamond: Layout do Código : <img align="center" alt="código" height="30" width="70" src="./assets/codigo_2.png">
+#  :large_orange_diamond: Layout do Código : :notebook_with_decorative_cover:
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/102131657/214475496-b4c46f63-c33e-4b0b-affa-6f0b2e46b611.gif)
 
-
-:notebook_with_decorative_cover:***Radar Angular***
-![cod](./assets/codigo.png)
-
-:notebook_with_decorative_cover:***Radar API***
-![cod_1](./assets/codigo_1.png)
-
-:notebook_with_decorative_cover:***Radar API***
-![cod_2](./assets/codigo_2.png)
-
-:notebook_with_decorative_cover:***Radar API***
-![cod_3](./assets/codigo_3.png)
 
 
 
