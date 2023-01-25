@@ -14,7 +14,7 @@
 <br>
 
 
-#  :large_orange_diamond: Autores :
+#  :large_orange_diamond: Desenvolvedores :
 
 
 |![Beatriz Miotto](https://avatars.githubusercontent.com/u/72702704?v=4) | ![Jaziel Matos](https://ca.slack-edge.com/T046RUYBTSB-U04EF1BJB7X-beac9e548697-512) |![Gustavo Lima](https://avatars.githubusercontent.com/u/102550256?v=4)|![Kenps Rossi](https://ca.slack-edge.com/T046RUYBTSB-U047WQWEA1H-5a05130874cc-512)  | ![Wallace Cocuzza](https://avatars.githubusercontent.com/u/43083317?v=4)|  
