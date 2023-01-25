@@ -86,19 +86,18 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 
 :computer: ***Site página 1...***
 
-![Web 1](https://codigodofuturo.corporate.gama.academy/wp-content/uploads/sites/41/2022/08/carrossel-codigo-do-futuro-office.jpg)
+![Web 4](https://tse1.mm.bing.net/th?id=OIP.PYuCPYKpUkLQ-2_33i2DwQHaFj&pid=Api&P=0)
+
 
 :computer: ***Site página 2...***
 
-![Web 2](https://codigodofuturo.corporate.gama.academy/wp-content/uploads/sites/41/2022/08/carrossel-codigo-do-futuro-office-2.jpg)
 
 :computer: ***Site página 3...***
 
-![Web 3](https://codigodofuturo.corporate.gama.academy/wp-content/uploads/sites/41/2022/08/carrossel-codigo-do-futuro-office-1.jpg)
 
 :computer: ***Site página 4...***
 
-![Web 4](https://tse1.mm.bing.net/th?id=OIP.PYuCPYKpUkLQ-2_33i2DwQHaFj&pid=Api&P=0)
+
 
 *****
 ##  :large_orange_diamond: Tecnologias utilizadas : :calling:
