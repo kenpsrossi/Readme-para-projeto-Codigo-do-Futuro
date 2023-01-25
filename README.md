@@ -61,7 +61,7 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 *****
 #  :large_orange_diamond: Layout do Trello : :bookmark_tabs:
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/102131657/214472561-249df0a7-e9cf-45ce-8a2b-f88b41257f59.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/102131657/214478869-40e66244-0dfd-4dbe-92cb-c7ab9d08d0be.gif)
 
 *****
 
