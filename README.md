@@ -84,9 +84,9 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 *****
 #  :large_orange_diamond: Layout do Site : :pager:
 
-:computer: ***Site página 1...***
+:computer: ![site 1](https://user-images.githubusercontent.com/102131657/214880716-cfd0401c-fd4c-4bb4-80b2-baa6a2ef22b3.gif)
 
-![Web 4](https://tse1.mm.bing.net/th?id=OIP.PYuCPYKpUkLQ-2_33i2DwQHaFj&pid=Api&P=0)
+
 
 
 :computer: ***Site página 2...***
