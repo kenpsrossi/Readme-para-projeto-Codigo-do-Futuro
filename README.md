@@ -88,8 +88,7 @@ sobre as informações do sistema radar. <br> O objetivo é melhorar a experiên
 
 
 
-
-:computer: ***Site página 2...***
+:computer: ![site 2](https://user-images.githubusercontent.com/102131657/214881370-d9498f7a-eec7-415b-8e2e-5f1f6a0ca446.gif)
 
 
 :computer: ***Site página 3...***
